@@ -1,5 +1,5 @@
 ### Hi there 👋, and welcome to my page. I am glad you are here.
-I am a Full Stack Web Developer skilled in React.js, Node.js, and SQL. Passionate about breaking down complex problems to find solutions, collaborating with other developers, and creating front-end interfaces with the user in mind. 
+I am a Full Stack Web Developer skilled in React.js, Angular, Node.js, SQL, GraphQL, and Postgress. Passionate about breaking down complex problems to find solutions, collaborating with other developers, and creating front-end interfaces with the user in mind. 
 <!--
 **royeradames/royeradames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
